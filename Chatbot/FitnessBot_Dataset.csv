@@ -1,0 +1,501 @@
+Age,Gender,Activity_Level,Body_Type,Goal,Training_Split,Diet_Advice
+58,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+54,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+32,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+56,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+33,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+22,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+31,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+35,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+23,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+46,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+34,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+52,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+34,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+56,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+50,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+38,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+50,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+31,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+35,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+44,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+23,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+40,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+54,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+56,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+32,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+25,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+17,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+47,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+58,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+31,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+34,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+59,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+52,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+33,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+43,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+47,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+53,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+58,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+52,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+34,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+18,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+23,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+42,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+29,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+58,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+28,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+40,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+46,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+20,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+41,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+21,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+41,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+41,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+45,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+60,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+38,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+46,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+53,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+39,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+25,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+44,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+27,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+18,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+44,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+21,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+36,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+60,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+54,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+38,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+50,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+18,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+54,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+41,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+25,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+28,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+46,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+53,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+34,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+53,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+26,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+31,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+58,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+34,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+19,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+40,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+29,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+27,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+53,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+54,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+37,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+43,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+29,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+17,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+49,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+45,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+36,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+40,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+27,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+41,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+55,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+43,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+48,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+46,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+35,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+59,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+20,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+49,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+59,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+47,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+22,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+26,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+57,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+54,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+47,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+52,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+19,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+60,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+22,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+34,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+55,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+28,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+47,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+29,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+19,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+33,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+53,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+19,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+47,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+30,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+53,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+43,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+26,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+26,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+35,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+24,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+53,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+40,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+39,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+23,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+46,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+27,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+40,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+59,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+36,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+19,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+27,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+32,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+22,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+37,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+28,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+47,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+39,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+55,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+41,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+34,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+41,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+53,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+28,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+55,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+31,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+37,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+20,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+49,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+20,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+60,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+19,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+42,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+53,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+47,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+56,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+26,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+26,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+24,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+20,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+45,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+48,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+39,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+36,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+33,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+44,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+29,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+33,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+21,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+33,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+32,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+50,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+41,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+42,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+56,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+60,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+57,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+34,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+20,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+24,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+53,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+59,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+53,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+50,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+19,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+43,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+56,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+34,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+30,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+44,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+38,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+55,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+51,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+58,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+47,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+19,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+36,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+52,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+24,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+30,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+25,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+39,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+19,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+47,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+18,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+40,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+36,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+55,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+23,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+57,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+30,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+50,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+18,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+54,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+38,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+19,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+33,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+60,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+36,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+53,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+53,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+34,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+20,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+53,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+28,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+42,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+29,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+38,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+44,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+22,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+57,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+60,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+30,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+56,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+41,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+33,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+55,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+32,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+31,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+31,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+27,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+52,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+35,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+57,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+28,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+19,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+47,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+22,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+58,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+44,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+55,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+27,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+27,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+53,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+22,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+46,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+34,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+19,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+49,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+20,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+33,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+36,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+22,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+33,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+24,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+51,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+58,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+52,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+42,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+39,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+28,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+37,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+30,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+39,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+57,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+21,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+18,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+45,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+55,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+26,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+45,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+41,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+43,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+29,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+25,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+36,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+43,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+30,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+47,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+58,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+54,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+33,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+43,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+41,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+36,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+39,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+51,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+42,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+17,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+18,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+32,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+43,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+59,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+48,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+42,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+28,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+35,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+36,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+32,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+37,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+30,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+42,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+54,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+29,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+42,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+29,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+17,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+30,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+29,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+54,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+23,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+31,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+40,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+23,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+42,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+23,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+49,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+54,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+57,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+44,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+35,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+28,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+60,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+29,Male,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+44,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+57,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+30,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+33,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+45,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+23,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+50,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+28,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+45,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+51,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+38,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+30,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+21,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+47,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+49,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+49,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+33,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+57,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+40,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+29,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+58,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+21,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+24,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+18,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+50,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+51,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+26,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+23,Male,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+27,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+56,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+56,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+26,Female,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+27,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+36,Female,Very Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+44,Male,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+32,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+50,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+57,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+45,Female,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+31,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+46,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+19,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+46,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+22,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+46,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+58,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+39,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+58,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+32,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+44,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+27,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+49,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+18,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+37,Female,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+51,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+24,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+49,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+38,Female,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+23,Female,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+58,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+18,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+33,Male,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+37,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+35,Male,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+31,Male,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+39,Male,Lightly Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+42,Female,Sedentary,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+49,Female,Moderately Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+20,Female,Lightly Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+35,Female,Moderately Active,Ectomorph,Bulking,"Focus on strength training with heavy weights, 4-5 days/week","Eat high-calorie, protein-rich foods; consume 5-6 meals/day."
+50,Male,Sedentary,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+30,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+50,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+40,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+26,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+29,Male,Lightly Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+23,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+19,Female,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+21,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+50,Male,Very Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+45,Female,Very Active,Mesomorph,Maintenance,"Balanced training routine, 3-4 days/week",Maintain caloric balance; focus on whole foods.
+24,Male,Moderately Active,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
+49,Male,Sedentary,Endomorph,Cutting,"High-intensity training, 5-6 days/week with cardio.",Reduce caloric intake; eat more fiber and protein.
